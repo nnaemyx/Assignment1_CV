@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Redressed&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Indie Flower", cursive;
+}
+
+.list *{
+  list-style: none;
+  text-decoration: none;
+  margin: 10px;
+  font-size: 18px;
+}
+
+.skill h2{
+  margin-left: 10%;
+}
+
+.container{
+  background-color: rgb(234, 229, 229);
+}
